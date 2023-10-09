@@ -44,6 +44,11 @@ return [
     'log_writer' => \AgeekDev\HttpLogger\DefaultLogWriter::class,
 
     /*
+     * The log channel used to write the request.
+     */
+    'log_channel' => env('LOG_CHANNEL', 'stderr'),
+
+    /*
      * The log level used to log the request.
      */
     'log_level' => 'info',
