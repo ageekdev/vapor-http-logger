@@ -25,5 +25,4 @@ jobs:
               with:
                   branch: main
                   commit_message: Update CHANGELOG
-                  push_options: --force
                   file_pattern: CHANGELOG.md

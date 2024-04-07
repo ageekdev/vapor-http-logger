@@ -2,7 +2,8 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ageekdev/vapor-http-logger.svg?style=flat-square&logo=Packagist)](https://packagist.org/packages/ageekdev/vapor-http-logger)
 [![Laravel 9.x](https://img.shields.io/badge/Laravel-9.x-red?style=flat-square&logo=Laravel)](https://laravel.com/docs/9.x)
-[![Laravel 10.x](https://img.shields.io/badge/Laravel-10.x-red?style=flat-square&logo=Laravel)](http://laravel.com)
+[![Laravel 10.x](https://img.shields.io/badge/Laravel-10.x-red?style=flat-square&logo=Laravel)](http://laravel.com/docs/10.x)
+[![Laravel 11.x](https://img.shields.io/badge/Laravel-11.x-red?style=flat-square&logo=Laravel)](http://laravel.com/docs/11.x)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/ageekdev/vapor-http-logger/run-tests.yml?logo=github&label=tests&style=flat-square)](https://github.com/ageekdev/vapor-http-logger/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/ageekdev/vapor-http-logger.svg?style=flat-square&logo=Packagist)](https://packagist.org/packages/ageekdev/vapor-http-logger)
 
