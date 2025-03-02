@@ -7,7 +7,7 @@ use function PHPUnit\Framework\assertStringContainsString;
 use function PHPUnit\Framework\assertStringNotContainsString;
 
 beforeEach(function () {
-    $this->logger = new DefaultLogWriter();
+    $this->logger = new DefaultLogWriter;
 });
 
 it('logs request method and uri', function () {

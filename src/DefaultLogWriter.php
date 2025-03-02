@@ -62,7 +62,7 @@ class DefaultLogWriter implements LogWriter
     protected function getSanitizer(): Sanitizer
     {
         if (! $this->sanitizer instanceof Sanitizer) {
-            $this->sanitizer = new Sanitizer();
+            $this->sanitizer = new Sanitizer;
         }
 
         return $this->sanitizer;

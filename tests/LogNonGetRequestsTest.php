@@ -3,7 +3,7 @@
 use AgeekDev\HttpLogger\LogNonGetRequests;
 
 beforeEach(function () {
-    $this->logProfile = new LogNonGetRequests();
+    $this->logProfile = new LogNonGetRequests;
 });
 
 it('logs post patch put delete', function () {
